@@ -2,7 +2,7 @@
 
 `_.permutations(collection, n)`
 
-Calculates all possible permutations of a certain size.
+Calculates all possible permutations without repetition of a certain size.
 
 | argument | description |
 | ---: | :--- |

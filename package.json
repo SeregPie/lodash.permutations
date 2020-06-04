@@ -1,7 +1,7 @@
 {
 	"name": "lodash.permutations",
 	"version": "1.0.0",
-	"description": "Calculates all possible permutations of a certain size.",
+	"description": "Calculates all possible permutations without repetition of a certain size.",
 	"keywords": [
 		"array",
 		"collection",
